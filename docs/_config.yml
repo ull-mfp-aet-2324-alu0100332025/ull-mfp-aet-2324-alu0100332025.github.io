@@ -15,7 +15,7 @@ calendario_examenes:
 horarios_tutorias: 
 organization: 
   url: https://github.com/ULL-MFP-AET-2324
-  name: ULL-MFP-AET-2223
+  name: ULL-MFP-AET-2324
   master: https://github.dev/ULL-MFP-AET/ull-mfp-aet.github.io/blob/main/
 profesor: "https://www.ull.es/apps/guias/guias/view_teacher_niu/984/crguezl/"
 profesor_github: OscarGarciaArteaga
